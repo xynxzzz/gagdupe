@@ -10,5 +10,4 @@ print(z+o+v)
 
 
 
-
-loadstring(game:HttpGet("https://pastefy.app/GNKGIJJg/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/UuLeXbzb/raw"))()
